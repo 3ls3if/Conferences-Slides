@@ -1,0 +1,25 @@
+TOPICS
+
+1. MITRE ATT&CK Matrix
+2. Tactics - Initial Access
+3. Techniques - Content Injection, Drive by Downloads, etc
+4. Procedures
+
+5. How to Hunt
+	1. Google
+	2. Censys
+	3. Shodan
+	4. FOFA
+	5. Virustotal
+
+6. Sidecopy APT (Pakistan)
+	https://cyble.com/threat-actor-profiles/sidecopy/
+
+7. Attackers were using https://sneat-vuetify-admin-template.vercel.app/dashboard templates
+
+8. Virustotal
+
+9. i-SOON - Cybersecurity has no boundaries and there is no limitations
+
+10. Diamond model of APT41 subgroup
+

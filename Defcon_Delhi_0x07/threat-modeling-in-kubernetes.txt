@@ -1,0 +1,71 @@
+TOPICS
+
+1. K8s Intro
+2. K8s Architecture
+3. AWS EKS architecture
+4. Shared Responsibility -1 
+
+	1. Self Managed Workers
+	2. EKS Fargate
+
+5. Shared Responsibility -2
+	
+	1. Self Managed Workers
+	2. 
+
+6. Threat and Risk
+7. What to do - Threat Modeling
+
+8. Threat Modeling - Why?
+
+	1. Proactive Security
+	2. Reactive Security
+
+9. Threat Modeling - When
+	
+	1. Periodically
+
+10. Threat Modeling K8s Cluster
+
+	1. https://medium.com/@nyrahul/kubernetes-threat-modeling-bf044745cf85
+	2. Bottom Up Approach
+
+		1. DOS Attack
+		2. Malicious Code Execution
+
+	3. Scenario Based Approach
+		
+		1. Attacker in internal network
+		2. Compromised Application
+
+	4. Malicious Code Execution
+
+11. K8s Security Best Practices
+	
+	1. Restrict Access to Kubectl
+	2. Use RBAC
+	3. Use Pod Security Admission and Other Controls
+	4. Use a N/W (North-West)Policy
+	5. Disable K8s Dashboard at All
+	6. Disable Automatic Mounting of Service Accounts
+
+12. East West Traffic
+
+13. North South Traffic
+
+14. Game -> https://eksclustergames.com/
+
+15. Shared Responsibility Model -> https://aws.amazon.com/compliance/shared-responsibility-model/
+
+16. Attacks
+
+	1. Silver Ticket Attack
+	2. Birthday Attack
+	3. Billion Laughs Attack
+	4. Zip Slip Attack
+	5. Sock Stress Attack
+	6. Log Forging/Injection
+	7. Venom Attack
+	8. Shellsock
+	9. Whaling
+	10. Container Escape

@@ -1,0 +1,25 @@
+TOPICS
+
+1. CEO of https://kubotor.com/
+2. Binaries - Executables
+3. FTP
+
+4. Shodan for FTP anonymous login
+
+	-> Shodan query for FTP > "220" "230 Login successful." port:21
+	-> Connect using FTP > ftp <IP address from shodan results>
+
+
+	-> Shodan query for ADB > "Android Debug Bridge" "Device" port:5555 country:IN
+
+	-> GitHub for shodan queries -> https://github.com/jakejarvis/awesome-shodan-queries
+
+5. Buffer Overflows
+	-> Stack - LIFO
+	-> Demo
+
+
+6. Wireshark 
+	
+	-> Filters > ip.addr==192.168.1.28
+	

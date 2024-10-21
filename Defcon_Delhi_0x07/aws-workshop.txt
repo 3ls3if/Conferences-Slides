@@ -1,0 +1,25 @@
+[+] SETTING UP THE ENVIRONMENT
+
+Creds
+
+- `Web Console Credentials`
+    
+    ```bash
+    Login Url : https://904233115789.signin.aws.amazon.com/console
+    
+    Username : defcon-0x07
+    
+    Password : }IwW2x%*
+    ```
+    
+- `Programmatic Credentials`
+
+
+[+] INTRODUCTION TO CLOUD COMPUTING
+
+Cloud computing refers to the delivery of computing services, including storage, processing power, and applications, over the internet. The key characteristics of cloud computing are On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service.
+
+
+
+
+
